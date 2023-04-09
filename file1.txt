@@ -1,0 +1,4 @@
+class trunal{
+public static void main(String[] args){
+
+sopln("my name is trunal");
